@@ -58,12 +58,8 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=fygdeku-cloud&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&ring_color=a855f7" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fygdeku-cloud&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e9d5ff" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fygdeku-cloud&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="100%" />
+<a href="https://github.com/fygdeku-cloud?tab=followers"><img src="https://img.shields.io/github/followers/fygdeku-cloud?style=for-the-badge&logo=github&logoColor=c084fc&label=Followers&labelColor=0d1117&color=7c3aed" /></a>
+<a href="https://github.com/fygdeku-cloud?tab=repositories"><img src="https://img.shields.io/badge/Dépôts-Open%20Source-7c3aed?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d1117" /></a>
 
 </div>
 
